@@ -3,23 +3,19 @@
 ## 🍬Representative Photo
 ![Yeye](https://github.com/yizizizi/Shen-Aoyi-DE/blob/main/images/%E8%80%B6%E8%80%B6.jpg?raw=true)
 ## 😎Summary
-This is a very confused technician, she does not know what to say here💦
+Losing all hope was freedom.
 ## 🧐Education
 |Duration|School|Major|
 |:------:|:-----:|:----:|
-|2019-2023|Xiamen University|Digital media technology|
+|2019-2023|NanjingForest University|Furniture Design and Engineering|
 |2023--|Zhejiang University|Industrial design engineering|
 ## 🏅Skills
-- C/C++
-- Python
-- Maya
-- Unity
+- 3Dsmax
+- CAD
+- Figma
 ## 🥰Hobby
-- [x] Eat hot pot
-- [x] Have barbecue
-- [x] Drink milk tea
-- [x] lie in
+- [x] sleep
 ## 💌Contact information
-> **Email :**  plegant@163.com
+> **Email :**  407444392@qq.com
 
 
